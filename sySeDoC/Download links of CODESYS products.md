@@ -23,3 +23,16 @@
 [Product Link 产品链接](https://store.codesys.com/all-products/activex-example.html)
 
 [Download Link 下载链接 Version 1.0.0.0](https://store.codesys.com/ftp_download/3S/ActiveX_Example/000035/1.0.0.0/ActiveXExample.package)
+
+## 5. Alarm Manager
+
+[Product Link 产品链接](https://store.codesys.com/all-products/alarm-manager.html)
+
+[Download Link 下载链接 Version 1.0.0.3](https://store.codesys.com/ftp_download/3S/AlarmManager/000045/1.0.0.3/AlarmManager.package)
+
+## 6. Alarm Table
+
+[Product Link 产品链接](https://store.codesys.com/all-products/alarm-table.html)
+
+[Download Link 下载链接 Version 1.0.0.0](https://store.codesys.com/ftp_download/3S/AlarmTable_Example/000046/1.0.0.0/AlarmTableExample.package)
+
